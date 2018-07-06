@@ -1,0 +1,1 @@
+Testing Apache HTTP Client to avoid TIME_WAIT and CLOSE_WAIT http connections when SocketTimeoutException is thrown by the client.
